@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]==0.41.0
+pydantic
+python-multipart
+yt-dlp
+faster-whisper
+opencv-python
+numpy
+ffmpeg-python
+sqlalchemy
